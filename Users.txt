@@ -1,0 +1,6 @@
+0_Student_name_Роман_grade_4.92_year_4_teacher_Антонина Петровна
+1_Student_name_Кирил_grade_3.52_year_1_teacher_Анастасия Сергеевна
+2_Student_name_Алена_grade_4.2_year_1_teacher_Инна Владимировна
+3_Teacher_Антонина Павловна
+4_Teacher_Анастасия Сергеевна
+5_Teacher_Инна Владимировна
